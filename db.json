@@ -1,0 +1,236 @@
+[
+    {
+        "Id": "3c9db501-910d-4e40-8154-e77e40e31470",
+        "Name": "PEST",
+        "Predictions": [
+            {
+                "probability": 0.337445974,
+                "tagId": "ae8969a3-3d8f-455b-907a-d0c872d0d0fe",
+                "tagName": "Green Leaf Hopper",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.129867822,
+                "tagId": "c6142e1f-abcb-41ca-be18-04b92a0e2fed",
+                "tagName": "Aphid",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.09502148,
+                "tagId": "e1237e6e-145c-4dee-b79b-cf4899ecb7b6",
+                "tagName": "Armyworm",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.06700313,
+                "tagId": "3f5ad2cd-3443-4dc2-9038-b8b375282c32",
+                "tagName": "Damage Symptom of Flea Beetle",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.0546896756,
+                "tagId": "595aeca1-2cab-4eec-ba41-9529fa23cd7b",
+                "tagName": "Mealy Bug",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.0486597121,
+                "tagId": "67b97359-bf76-422d-8363-635b6d5f4597",
+                "tagName": "Red Cotton Bug",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.04135441,
+                "tagId": "30578b8d-37a3-41c4-9293-77aae82bdc81",
+                "tagName": "Leaf Folder",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.0342800766,
+                "tagId": "9d85aa43-dd80-4156-bf45-75d789e7f61c",
+                "tagName": "White Fly",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.0298991837,
+                "tagId": "28b89ba6-05b3-4e7d-a568-fe2fe5a2d54d",
+                "tagName": "Boll Worm",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.0225367025,
+                "tagId": "27ee9900-c94e-44f2-8532-91615392e327",
+                "tagName": "Spider mite",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.017904982,
+                "tagId": "30d3930a-6bf0-43a5-aeef-95c609503175",
+                "tagName": "Cutworm",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.008885091,
+                "tagId": "2762c540-131e-4b3f-a5b5-bd10bd25d313",
+                "tagName": "Brown Plant Hopper",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.007853206,
+                "tagId": "85beafb4-9e38-44e7-8ee8-bf4c8dc959f6",
+                "tagName": "Stemborer",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.00782133453,
+                "tagId": "c835496d-7461-46f3-b9ea-b8c64d72676e",
+                "tagName": "Pod Borer",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.007136861,
+                "tagId": "fb4dbf20-5cde-4128-b0bc-c1ab048d08ba",
+                "tagName": "Leaf miner",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.002020926,
+                "tagId": "670ea168-cfea-436b-b836-eeb7b562d979",
+                "tagName": "Chafer beetle",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.00178283942,
+                "tagId": "b8023672-e634-4d74-a476-ac72e3b285ec",
+                "tagName": "Trips",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.00172753516,
+                "tagId": "b69ef802-d0ab-4b35-8e35-bae6a57d4e27",
+                "tagName": "Jassid",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.00155603606,
+                "tagId": "f6e38590-557b-490c-82c7-aa2dbdb1b59d",
+                "tagName": "Fruit borer",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.00122016459,
+                "tagId": "36f2dd9c-f013-4f81-99dd-617d2cbd8739",
+                "tagName": "Tomato hornworm",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.0005048509,
+                "tagId": "fd12cfbd-9b12-4455-ab92-399bac14a755",
+                "tagName": "Pink Bollworm",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.00047160394,
+                "tagId": "7ff31bc3-81d1-4358-9b98-d23eba9505e7",
+                "tagName": "Red hairy caterpillar",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.000182844538,
+                "tagId": "aaf3b640-010d-4e41-8e33-2ece0fccfd6c",
+                "tagName": "Rice Ear Bug",
+                "boundingBox": null
+            },
+            {
+                "probability": 5.2972835E-05,
+                "tagId": "4941f85f-bc9f-41c7-9d74-89d3d3065ea7",
+                "tagName": "Wireworm",
+                "boundingBox": null
+            }
+        ]
+    },
+    {
+        "Id": "a3c96371-8a64-48ed-a570-1dee7e057ced",
+        "Name": "CROP",
+        "Predictions": [
+            {
+                "probability": 0.9768327,
+                "tagId": "7d407db8-3779-41a3-9ac0-9b5fa17ce9ba",
+                "tagName": "Cotton",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.01589585,
+                "tagId": "77ee7381-a1f0-4bc8-b3cf-27ed8893ce49",
+                "tagName": "Melon",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.005388658,
+                "tagId": "decfbb2a-357f-4eaa-bbd0-4f0e0210520a",
+                "tagName": "Chilli",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.00403975975,
+                "tagId": "f3c11ce4-9fdc-48f9-8aab-8a40238b255b",
+                "tagName": "Green Gram",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.00302130287,
+                "tagId": "9f72bb2c-8205-4422-b232-bd2218951aec",
+                "tagName": "Groundnut",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.00171169534,
+                "tagId": "be2df36e-4415-417b-ae66-0b256cc143b6",
+                "tagName": "Tomato",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.0001823593,
+                "tagId": "ea5c7966-fa85-4177-9594-c574f1a5e262",
+                "tagName": "Rice",
+                "boundingBox": null
+            },
+            {
+                "probability": 1.14644035E-05,
+                "tagId": "9cb8ded2-79e3-4d41-b260-aae66647bb89",
+                "tagName": "Corn",
+                "boundingBox": null
+            }
+        ]
+    },
+    {
+        "Id": "697442b2-9944-4219-950a-a610ea877e96",
+        "Name": "Cotton",
+        "Predictions": [
+            {
+                "probability": 0.9596704,
+                "tagId": "3c994a29-5d6f-4c97-bacf-a4ef21e6bf56",
+                "tagName": "Angular Leaf Spot",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.0195744876,
+                "tagId": "6807437b-06cb-40fe-96e9-94c1cbbbd6d9",
+                "tagName": "Cecospora Leaf Spot",
+                "boundingBox": null
+            },
+            {
+                "probability": 0.00960111,
+                "tagId": "aafc51e1-9c40-401d-a0ce-79a11031920e",
+                "tagName": "Verticillum Wilt",
+                "boundingBox": null
+            },
+            {
+                "probability": 5.13522366E-07,
+                "tagId": "2ea8ce3c-fdf9-47c7-b221-6b61629a02da",
+                "tagName": "Non-Disease",
+                "boundingBox": null
+            }
+        ]
+    }
+]
