@@ -1,0 +1,240 @@
+06/06/20
+
+   Speedtest by Ookla
+
+     Server: Global Technology - Yangon (id = 14059)
+        ISP: Global Technology
+    Latency:     0.60 ms   (0.07 ms jitter)
+   Download:    94.09 Mbps (data used: 44.9 MB)                               
+     Upload:    93.96 Mbps (data used: 43.6 MB)                               
+Packet Loss: Not available.
+ Result URL: https://www.speedtest.net/result/c/fe9bcbb1-4856-40d1-835e-515d5a77e15e
+-------------------------------------------------------------------------------------
+06/06/20
+
+   Speedtest by Ookla
+
+     Server: Global Technology - Yangon (id = 14059)
+        ISP: Global Technology
+    Latency:     0.55 ms   (0.07 ms jitter)
+   Download:    94.26 Mbps (data used: 43.8 MB)                               
+     Upload:    94.05 Mbps (data used: 42.3 MB)                               
+Packet Loss: Not available.
+ Result URL: https://www.speedtest.net/result/c/f8a64dd5-859e-4faa-8f76-9f9f4aebcf3d
+-------------------------------------------------------------------------------------
+06/06/20
+
+   Speedtest by Ookla
+
+     Server: Global Technology - Yangon (id = 14059)
+        ISP: Global Technology
+    Latency:     0.59 ms   (0.10 ms jitter)
+   Download:    94.17 Mbps (data used: 42.6 MB)                               
+     Upload:    93.99 Mbps (data used: 42.5 MB)                               
+Packet Loss: Not available.
+ Result URL: https://www.speedtest.net/result/c/01d55358-4395-4c9f-bdb0-74e8f53b3650
+-------------------------------------------------------------------------------------
+06/06/20
+
+   Speedtest by Ookla
+
+     Server: Global Technology - Yangon (id = 14059)
+        ISP: Global Technology
+    Latency:     0.58 ms   (0.07 ms jitter)
+   Download:    94.35 Mbps (data used: 43.8 MB)                               
+     Upload:    94.12 Mbps (data used: 42.3 MB)                               
+Packet Loss: Not available.
+ Result URL: https://www.speedtest.net/result/c/b84d5420-04ab-4c49-ba83-536f903e4a2b
+-------------------------------------------------------------------------------------
+06/07/20
+
+   Speedtest by Ookla
+
+     Server: Global Technology - Yangon (id = 14059)
+        ISP: Global Technology
+    Latency:     0.60 ms   (0.08 ms jitter)
+   Download:    94.20 Mbps (data used: 42.6 MB)                               
+     Upload:    94.04 Mbps (data used: 42.6 MB)                               
+Packet Loss: Not available.
+ Result URL: https://www.speedtest.net/result/c/c228b2b1-e82a-49b5-9ba6-4f31cc9081b6
+-------------------------------------------------------------------------------------
+06/07/20
+
+   Speedtest by Ookla
+
+     Server: Global Technology - Yangon (id = 14059)
+        ISP: Global Technology
+    Latency:     0.59 ms   (0.10 ms jitter)
+   Download:    94.28 Mbps (data used: 42.6 MB)                               
+     Upload:    94.09 Mbps (data used: 42.3 MB)                               
+Packet Loss: Not available.
+ Result URL: https://www.speedtest.net/result/c/ddf938c2-64b7-43d7-87c0-03b428fe9391
+-------------------------------------------------------------------------------------
+06/07/20
+
+   Speedtest by Ookla
+
+     Server: Global Technology - Yangon (id = 14059)
+        ISP: Global Technology
+    Latency:     0.64 ms   (0.07 ms jitter)
+   Download:    94.11 Mbps (data used: 42.5 MB)                               
+     Upload:    94.06 Mbps (data used: 42.3 MB)                               
+Packet Loss: Not available.
+ Result URL: https://www.speedtest.net/result/c/8a8303f8-3cef-4a79-9718-784700845b0d
+-------------------------------------------------------------------------------------
+06/07/20
+
+   Speedtest by Ookla
+
+     Server: Global Technology - Yangon (id = 14059)
+        ISP: Global Technology
+    Latency:     0.58 ms   (0.08 ms jitter)
+   Download:    94.15 Mbps (data used: 42.5 MB)                               
+     Upload:    93.89 Mbps (data used: 43.6 MB)                               
+Packet Loss: Not available.
+ Result URL: https://www.speedtest.net/result/c/eaa5ab08-6585-438f-9e9c-0af94b0fd52c
+-------------------------------------------------------------------------------------
+06/07/20
+
+   Speedtest by Ookla
+
+     Server: Global Technology - Yangon (id = 14059)
+        ISP: Global Technology
+    Latency:     0.59 ms   (0.09 ms jitter)
+   Download:    94.09 Mbps (data used: 42.4 MB)                               
+     Upload:    93.79 Mbps (data used: 43.5 MB)                               
+Packet Loss: Not available.
+ Result URL: https://www.speedtest.net/result/c/6e9996b9-867e-437d-8143-d2c05a8cb5a9
+-------------------------------------------------------------------------------------
+06/07/20
+
+   Speedtest by Ookla
+
+     Server: Global Technology - Yangon (id = 14059)
+        ISP: Global Technology
+    Latency:     0.58 ms   (0.10 ms jitter)
+   Download:    94.29 Mbps (data used: 42.5 MB)                               
+     Upload:    94.03 Mbps (data used: 42.4 MB)                               
+Packet Loss: Not available.
+ Result URL: https://www.speedtest.net/result/c/49957fd4-a9f5-4a79-b197-841ca7886a90
+-------------------------------------------------------------------------------------
+06/07/20
+
+   Speedtest by Ookla
+
+     Server: Global Technology - Yangon (id = 14059)
+        ISP: Global Technology
+    Latency:     0.54 ms   (0.08 ms jitter)
+   Download:    94.22 Mbps (data used: 42.6 MB)                               
+     Upload:    94.03 Mbps (data used: 42.5 MB)                               
+Packet Loss: Not available.
+ Result URL: https://www.speedtest.net/result/c/f2c9e5df-e8d1-4437-b04d-11cafc64224b
+-------------------------------------------------------------------------------------
+06/07/20
+
+   Speedtest by Ookla
+
+     Server: Global Technology - Yangon (id = 14059)
+        ISP: Global Technology
+    Latency:     0.61 ms   (0.08 ms jitter)
+   Download:    94.10 Mbps (data used: 42.6 MB)                               
+     Upload:    94.08 Mbps (data used: 42.4 MB)                               
+Packet Loss: Not available.
+ Result URL: https://www.speedtest.net/result/c/46f1f44b-971a-48a7-8f4d-085adc9b6add
+-------------------------------------------------------------------------------------
+06/07/20
+
+   Speedtest by Ookla
+
+     Server: Global Technology - Yangon (id = 14059)
+        ISP: Global Technology
+    Latency:     0.58 ms   (0.08 ms jitter)
+   Download:    94.11 Mbps (data used: 43.7 MB)                               
+     Upload:    94.06 Mbps (data used: 42.3 MB)                               
+Packet Loss: Not available.
+ Result URL: https://www.speedtest.net/result/c/a2e1a900-3512-4732-875b-ef1dd0b90295
+-------------------------------------------------------------------------------------
+06/07/20
+
+   Speedtest by Ookla
+
+     Server: Global Technology - Yangon (id = 14059)
+        ISP: Global Technology
+    Latency:     0.64 ms   (0.06 ms jitter)
+   Download:    94.11 Mbps (data used: 42.4 MB)                               
+     Upload:    94.04 Mbps (data used: 42.3 MB)                               
+Packet Loss: Not available.
+ Result URL: https://www.speedtest.net/result/c/de6117c0-b83d-47fc-bd0f-59214686fb67
+-------------------------------------------------------------------------------------
+06/07/20
+
+   Speedtest by Ookla
+
+     Server: Global Technology - Yangon (id = 14059)
+        ISP: Global Technology
+    Latency:     0.52 ms   (0.07 ms jitter)
+   Download:    94.26 Mbps (data used: 43.8 MB)                               
+     Upload:    94.11 Mbps (data used: 42.4 MB)                               
+Packet Loss: Not available.
+ Result URL: https://www.speedtest.net/result/c/10eead8d-9541-417d-873a-cc96bc8957c6
+-------------------------------------------------------------------------------------
+06/07/20
+
+   Speedtest by Ookla
+
+     Server: Global Technology - Yangon (id = 14059)
+        ISP: Global Technology
+    Latency:     0.58 ms   (0.08 ms jitter)
+   Download:    93.87 Mbps (data used: 42.5 MB)                               
+     Upload:    94.10 Mbps (data used: 42.4 MB)                               
+Packet Loss: Not available.
+ Result URL: https://www.speedtest.net/result/c/e6f80623-6c2e-44ec-ab2a-970b277391de
+-------------------------------------------------------------------------------------
+06/07/20
+
+   Speedtest by Ookla
+
+     Server: Global Technology - Yangon (id = 14059)
+        ISP: Global Technology
+    Latency:     0.54 ms   (0.08 ms jitter)
+   Download:    94.55 Mbps (data used: 42.5 MB)                               
+     Upload:    94.05 Mbps (data used: 42.3 MB)                               
+Packet Loss: Not available.
+ Result URL: https://www.speedtest.net/result/c/00ac019f-9d2a-4ee7-8c2b-8cfd4677c645
+-------------------------------------------------------------------------------------
+06/07/20
+
+   Speedtest by Ookla
+
+     Server: Global Technology - Yangon (id = 14059)
+        ISP: Global Technology
+    Latency:     0.58 ms   (0.10 ms jitter)
+   Download:    94.12 Mbps (data used: 44.8 MB)                               
+     Upload:    93.61 Mbps (data used: 42.2 MB)                               
+Packet Loss: Not available.
+ Result URL: https://www.speedtest.net/result/c/d3df85c5-7df3-40d0-b594-9e49ca114604
+-------------------------------------------------------------------------------------
+06/07/20
+
+   Speedtest by Ookla
+
+     Server: Global Technology - Yangon (id = 14059)
+        ISP: Global Technology
+    Latency:     0.50 ms   (0.06 ms jitter)
+   Download:    94.07 Mbps (data used: 42.4 MB)                               
+     Upload:    93.84 Mbps (data used: 42.3 MB)                               
+Packet Loss: Not available.
+ Result URL: https://www.speedtest.net/result/c/34053af4-487c-412e-9136-f063c6b4a540
+-------------------------------------------------------------------------------------
+06/07/20
+
+   Speedtest by Ookla
+
+     Server: Global Technology - Yangon (id = 14059)
+        ISP: Global Technology
+    Latency:     0.57 ms   (0.08 ms jitter)
+   Download:    94.22 Mbps (data used: 42.5 MB)                               
+     Upload:    94.12 Mbps (data used: 42.3 MB)                               
+Packet Loss: Not available.
+ Result URL: https://www.speedtest.net/result/c/248a4ebf-7fa3-4ea5-b43b-db249988b1d7
+-------------------------------------------------------------------------------------

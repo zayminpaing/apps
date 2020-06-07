@@ -1,0 +1,10 @@
+
+   Speedtest by Ookla
+
+     Server: Global Technology - Yangon (id = 14059)
+        ISP: Global Technology
+    Latency:     0.57 ms   (0.08 ms jitter)
+   Download:    94.22 Mbps (data used: 42.5 MB)                               
+     Upload:    94.12 Mbps (data used: 42.3 MB)                               
+Packet Loss: Not available.
+ Result URL: https://www.speedtest.net/result/c/248a4ebf-7fa3-4ea5-b43b-db249988b1d7
